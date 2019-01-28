@@ -1,0 +1,15 @@
+.gnu*
+.node*
+.cache
+.local
+.config
+.npm
+.byond
+.bundle
+.gem
+.subversion
+.git
+.bash_history
+node_modules
+vendor
+mbox
